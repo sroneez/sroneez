@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shofiqur Rahman Soyon** — a Junior Flutter Developer at **Spark Tech Agency** in Dhaka, Bangladesh.
+I'm **Shofiqur Rahman Soyon** — a Flutter Developer at **Spark Tech Agency** in Dhaka, Bangladesh.
 
 I build cross-platform mobile applications that are engineered to last. My craft is defined by a deep commitment to **Clean Architecture** — not because it's fashionable, but because I've seen firsthand what happens when structure is an afterthought. Every layer has a purpose. Every abstraction earns its place.
 
