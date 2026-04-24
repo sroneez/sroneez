@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=38BDF8&label=Profile+Views" alt="Profile Views" />
-  <a href="https://contra.com/YOUR_CONTRA_USERNAME"><img src="https://img.shields.io/badge/Hire%20Me%20on-Contra-6366F1?style=flat-square&logoColor=white" alt="Hire on Contra" /></a>
+  <a href="[https://contra.com/YOUR_CONTRA_USERNAME](https://contra.com/shofiqur_rahman_soyon_j58p1hvi/work?r=shofiqur_rahman_soyon_j58p1hvi)"><img src="https://img.shields.io/badge/Hire%20Me%20on-Contra-6366F1?style=flat-square&logoColor=white" alt="Hire on Contra" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh%20🇧🇩-F59E0B?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Clean%20Architecture-10B981?style=flat-square" alt="Focus" />
 </p>
@@ -113,15 +113,15 @@ A full-featured social platform that goes beyond the feed — Xneker brings peop
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sroneez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" height="175" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=6" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroneez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=6" height="175" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=sroneezE&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 </div>
 
