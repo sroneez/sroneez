@@ -5,8 +5,8 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=38BDF8&label=Profile+Views" alt="Profile Views" />
-  <a href="[https://contra.com/YOUR_CONTRA_USERNAME](https://contra.com/shofiqur_rahman_soyon_j58p1hvi/work?r=shofiqur_rahman_soyon_j58p1hvi)"><img src="https://img.shields.io/badge/Hire%20Me%20on-Contra-6366F1?style=flat-square&logoColor=white" alt="Hire on Contra" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sroneez&style=flat-square&color=38BDF8&label=Profile+Views" alt="Profile Views" />
+  <a href="[https://contra.com/shofiqur_rahman_soyon_j58p1hvi/work?r=shofiqur_rahman_soyon_j58p1hvi](https://contra.com/shofiqur_rahman_soyon_j58p1hvi/work?r=shofiqur_rahman_soyon_j58p1hvi)"><img src="https://img.shields.io/badge/Hire%20Me%20on-Contra-6366F1?style=flat-square&logoColor=white" alt="Hire on Contra" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh%20🇧🇩-F59E0B?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Clean%20Architecture-10B981?style=flat-square" alt="Focus" />
 </p>
